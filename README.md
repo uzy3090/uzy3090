@@ -5,19 +5,15 @@
 <br><br>Mi nombre es Lucia y soy de México 🌮🌶 de profesión Quimíca farmaco biologa 🥼🧪 y desarrolladora Web Jr. de corazón 💖
 actualmente me encuentro estudiando en Laboratoria <L> 💛 en etapa de rutas, es decir estoy iniciando con conocimientos en React. 
 Para poder llegar ahí  pase por HTML, CSS y Java Script 🚀👩‍💻 <br><br>
-<br><br>Me gusta colaborar con personas con personas abiertas al dialogo, donde existe constante feedback de ambas partes,
+Me gusta colaborar con personas con personas abiertas al dialogo, donde existe constante feedback de ambas partes,
 creo firmemente en el trabajo en equipo, respeto y empatía y los beneficios que obtenemos como profesionistas, 
 siempre estoy aprendiendo cosas nuevas y me gusta entender lo que hago antes de ejecutarlo para así poder compartir mis conocimientos📚. <br><br>
-
-<br><br>Me encuentro interesada en perfiles de e-commerce, bancos, implementación de proyectos y análisis de datos para la toma de decisiones.<br><br>
-
-<br><br>Puedo brindarte mis conocimientos en la estructura, diseño y funcionalidad de páginas web y app moviles 🎯 poniendo al usuario como fuente principal
+Me encuentro interesada en perfiles de e-commerce, bancos, implementación de proyectos y análisis de datos para la toma de decisiones.<br><br>
+Puedo brindarte mis conocimientos en la estructura, diseño y funcionalidad de páginas web y app moviles 🎯 poniendo al usuario como fuente principal
 de inspiración. Adicionalmente puedo llevar tus KPI´s para la mejora de productividad, tengo conocimientos de six sigma y puedo
 estandarizar y mejorar procesos.📊⏳<br><br>
-
-<br><br>⚡ Mi fun fact favorito es el aprendizaje 📚💻 y el yoga ✨🧘‍♀️🧿.<br><br>
-
-<br><br>💬 📫 Escribeme a: luciaolayo2@gmail.com <br><br>
+⚡ Mi fun fact favorito es el aprendizaje 📚💻 y el yoga ✨🧘‍♀️🧿.<br><br>
+💬 📫 Escribeme a: luciaolayo2@gmail.com <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//lucia-perez-olayo) 
